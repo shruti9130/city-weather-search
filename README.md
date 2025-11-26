@@ -67,49 +67,38 @@ GET /api/v1/weather/{city}
 * Modern UI design with loader, error messages, and last searched city remembered.
 * Input box and Enter key support for search.
 
-
 ## How to Run Locally
+Prerequisites
 
-### Prerequisites
+Java 17+ installed
 
-* Java 17+ installed
-* Maven installed
-* Internet connection (for API calls)
+Maven installed
 
-### Steps
+Internet connection (for API calls)
 
-1. Clone the repository:
+Steps
 
-bash
+Clone the repository:
+
 git clone https://github.com/shruti9130/city-weather-search.git
 
+Navigate to project folder:
 
-2. Navigate to project folder:
-
-bash
 cd weather-app
 
+Build the project with Maven:
 
-3. Build the project with Maven:
-
-bash
 mvn clean install
 
+Run the Spring Boot application:
 
-4. Run the Spring Boot application:
-
-bash
 mvn spring-boot:run
 
-
-5. Open browser and visit:
+Open browser and visit:
 
 http://localhost:8080/weather.html
 
-
-6. Enter a city name to see the current weather.
-
----
+Enter a city name to see the current weather.
 
 ## Notes
 
