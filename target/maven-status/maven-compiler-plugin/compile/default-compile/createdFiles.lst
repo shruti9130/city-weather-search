@@ -1,0 +1,12 @@
+com\example\weather\service\CacheService.class
+com\example\weather\WeatherSearchApplication.class
+com\example\weather\model\WeatherApiResponse.class
+com\example\weather\model\com\example\weather\model\WeatherMain.class
+com\example\weather\service\WeatherService.class
+com\example\weather\model\WeatherResponse.class
+com\example\weather\model\WeatherApiResponse$Wind.class
+com\example\weather\model\com\example\weather\model\WeatherDetails.class
+com\example\weather\model\WeatherApiResponse$Weather.class
+com\example\weather\service\CacheService$CacheEntry.class
+com\example\weather\controller\WeatherController.class
+com\example\weather\model\WeatherApiResponse$Main.class
