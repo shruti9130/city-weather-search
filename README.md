@@ -5,7 +5,7 @@ This is a **City Weather Search** built using **Java Spring Boot**. Users can se
 
 ---
 
-## 🔗 API Used
+## API Used
 
  OpenWeatherMap API (Current Weather Data)
   [https://openweathermap.org/current](https://openweathermap.org/current)
@@ -46,7 +46,7 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}&un
 
 
 
-## 🌐 Backend (Java Spring Boot)
+## Backend (Java Spring Boot)
 
 * Exposes a REST API endpoint:
 
@@ -60,7 +60,7 @@ GET /api/v1/weather/{city}
 
 
 
-## 🖥️ Frontend
+## Frontend
 
 * `weather.html` in `src/main/resources/static/`
 * Fetches weather data from backend API and renders it dynamically.
@@ -111,7 +111,7 @@ http://localhost:8080/weather.html
 
 ---
 
-## 📌 Notes
+## Notes
 
 * **REST API guidelines** followed.
 * Code structured for **extensibility** and **maintainability**.
@@ -121,6 +121,6 @@ http://localhost:8080/weather.html
 
 ---
 
-## 📂 GitHub Repository
+##  GitHub Repository
 
 * Public repository: [https://github.com/shruti9130/city-weather-search](https://github.com/shruti9130/city-weather-search)
